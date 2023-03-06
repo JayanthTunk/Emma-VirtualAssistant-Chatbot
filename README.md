@@ -35,7 +35,3 @@
 <ul>
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
 </ul>
-
-<h2>Example :</h2>
-
-    >python3  Emma Smart Assistant + Chatbot.py
